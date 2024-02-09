@@ -1,7 +1,7 @@
 # Early Parkinsons' disease detection Using Spiral Dataset.
 **Overview**
 A long-term degenerative condition called Parkinson's disease (PD) affects a person's neural system and motor memory. There is no reliable and efficient treatment. However, the spiral test and speech smearing can be used to detect Parkinson's disease in the early stage.
-This proposed work is an attempt to build Parkinson’s Disease detection systems using a spiral dataset. The spiral test is one of the most fundamental techniques used. Individuals are asked to draw spirals, which are then pre-processed and fed to a machine-learning algorithms. These classifiers are used to categorize the spirals into two classes - ‘Healthy’ and ‘Parkinson’s’. Also, evaluation and comparison of performance measures such as accuracy, specificity, and sensitivity for all the classifiers used is done.
+This proposed work is an attempt to build Parkinson’s Disease detection systems using a spiral dataset. The spiral test is one of the most fundamental techniques used. Individuals are asked to draw spirals, which are then pre-processed and fed to machine-learning algorithms. These classifiers are used to categorize the spirals into two classes - ‘Healthy’ and ‘Parkinson’s’. Also, evaluation and comparison of performance measures such as accuracy, specificity, and sensitivity for all the classifiers used is done.
 
 **Data Source**
 Dataset collected from kaggle’s repository, carried out at RMIT University in Melbourne, Australia. Having 102 total images. 
@@ -31,5 +31,10 @@ Project Paper
 ----
 Early Detection of Parkinson’s Disease Using Spiral Test(https://drive.google.com/file/d/1T3J01sPg1YnQA8LJs6j5qsBrTWkUn_p1/view)
 -Project Paper Published in 3rd International Conference on Data Science and Big Data Analytics
+
+**Contributers**
+Rutuja Patil (https://github.com/rutuja1121)
+Priyal Agarwal(https://github.com/priyal56)
+Vipin Talreja
 
 
