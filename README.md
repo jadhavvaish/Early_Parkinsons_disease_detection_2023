@@ -18,11 +18,18 @@ Feature Engineering: Extract and preprocess features from the raw data, such as 
 **Methodology Used -**
 <img width="893" alt="image" src="https://github.com/jadhavvaish/Early_Parkinsons_disease_detection_2023/assets/81427041/a1257b62-3d37-48be-b171-622c575debae">
 
-# Approach 1: using CNN 
+# Approach 1: using Classifiers
 <img width="755" alt="image" src="https://github.com/jadhavvaish/Early_Parkinsons_disease_detection_2023/assets/81427041/948ca467-6986-4729-9452-f92999d7c4bd">
 
-# Approach 2: Using Classifiers
+# Approach 2: Using CNN
 <img width="787" alt="image" src="https://github.com/jadhavvaish/Early_Parkinsons_disease_detection_2023/assets/81427041/d3e61638-9aab-433c-a522-abd699682daa">
 
 # Result:
-![Capture](https://github.com/rutuja1121/Early_Parkinsons_disease_detection_2023/assets/65657589/42c8f6c4-4e37-4e6a-b9c4-eb2f5f397d78)
+<img width="826" alt="image" src="https://github.com/jadhavvaish/Early_Parkinsons_disease_detection_2023/assets/81427041/450e33ae-4d4e-43d2-9554-83f32d9165b3">
+
+Project Paper
+----
+Early Detection of Parkinson’s Disease Using Spiral Test(https://drive.google.com/file/d/1T3J01sPg1YnQA8LJs6j5qsBrTWkUn_p1/view)
+-Project Paper Published in 3rd International Conference on Data Science and Big Data Analytics
+
+
