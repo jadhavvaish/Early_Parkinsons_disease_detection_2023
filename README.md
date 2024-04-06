@@ -21,7 +21,7 @@ Train machine learning models, such as logistic regression, random forest, or su
 **4.Model Evaluation:**
 Assess the performance of the predictive model using metrics such as accuracy, sensitivity, specificity, and area under the receiver operating characteristic curve (AUC-ROC).
 
-**5.Interpretation and Validation: **
+**5.Interpretation and Validation:**
 Interpret the model results and validate its effectiveness in detecting early signs of Parkinson's disease using independent test datasets or cross-validation techniques.
 
 **Methodology Used -**
