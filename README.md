@@ -9,11 +9,20 @@ Dataset collected from kaggle’s repository, carried out at RMIT University in 
 
 
 **Features**
--Data Collection: Gather relevant patient data, including demographic information, medical history, motor symptoms, and other clinical assessments.
-Feature Engineering: Extract and preprocess features from the raw data, such as tremor amplitude, gait speed, voice characteristics, and other biomarkers associated with PD.
--Model Development: Train machine learning models, such as logistic regression, random forest, or support vector machines, to predict the likelihood of Parkinson's disease based on the extracted features.
--Model Evaluation: Assess the performance of the predictive model using metrics such as accuracy, sensitivity, specificity, and area under the receiver operating characteristic curve (AUC-ROC).
--Interpretation and Validation: Interpret the model results and validate its effectiveness in detecting early signs of Parkinson's disease using independent test datasets or cross-validation techniques.
+**1.Data Collection**
+Gather relevant patient data, including demographic information, medical history, motor symptoms, and other clinical assessments.
+
+**2.Feature Engineering:** 
+Extract and preprocess features from the raw data, such as tremor amplitude, gait speed, voice characteristics, and other biomarkers associated with PD.
+
+**3.Model Development:**
+Train machine learning models, such as logistic regression, random forest, or support vector machines, to predict the likelihood of Parkinson's disease based on the extracted features.
+
+**4.Model Evaluation:**
+Assess the performance of the predictive model using metrics such as accuracy, sensitivity, specificity, and area under the receiver operating characteristic curve (AUC-ROC).
+
+**5.Interpretation and Validation: **
+Interpret the model results and validate its effectiveness in detecting early signs of Parkinson's disease using independent test datasets or cross-validation techniques.
 
 **Methodology Used -**
 <img width="893" alt="image" src="https://github.com/jadhavvaish/Early_Parkinsons_disease_detection_2023/assets/81427041/a1257b62-3d37-48be-b171-622c575debae">
